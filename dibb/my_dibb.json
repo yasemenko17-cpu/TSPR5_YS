@@ -1,0 +1,28 @@
+{
+ "product": {
+  "name": "",
+  "audience": "",
+  "north_star": ""
+ },
+ "data": [],
+ "insights": [],
+ "beliefs": [],
+ "bets": [],
+ "pitch": {
+  "bet": "",
+  "problem": "",
+  "appetite_weeks": 0,
+  "teams": 1,
+  "solution": [],
+  "rabbit_holes": [],
+  "no_gos": [],
+  "scopes": []
+ },
+ "decision": {
+  "capacity_weeks": 0,
+  "chosen": [],
+  "deferred": [],
+  "cooldown_weeks": 2
+ },
+ "review": []
+}
